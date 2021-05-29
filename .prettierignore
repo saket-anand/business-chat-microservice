@@ -1,0 +1,13 @@
+# Tsconfig
+tsconfig.json
+
+# Ignore artifacts:
+build
+coverage
+
+# Ignore all HTML files:
+*.html
+
+# Ignore build package
+lib/
+
